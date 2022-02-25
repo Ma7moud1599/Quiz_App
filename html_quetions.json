@@ -1,0 +1,74 @@
+[
+  {
+    "title": "why we use <br> element",
+    "answer_1": "to make text bold",
+    "answer_2": "to make text italic",
+    "answer_3": "to add breakline",
+    "answer_4": "to make horizontal line",
+    "right_answer": "to add breakline"
+  },
+  {
+    "title": "is <img> element has attribute href",
+    "answer_1": "yas",
+    "answer_2": "no its fo another tag",
+    "answer_3": "all element has this attribute",
+    "answer_4": "answer 1 and 3 is right",
+    "right_answer": "no its fo another tag"
+  },
+  {
+    "title": "why we use <br> element",
+    "answer_1": "to make text bold",
+    "answer_2": "to make text italic",
+    "answer_3": "to add breakline",
+    "answer_4": "to make horizontal line",
+    "right_answer": "to add breakline"
+  },
+  {
+    "title": "how can we make element text bold",
+    "answer_1": "putting it in <b> tag",
+    "answer_2": "putting it in <strong> tag",
+    "answer_3": "customizing it with font-weight property in css",
+    "answer_4": "all answer is right",
+    "right_answer": "all answer is right"
+  },
+  {
+    "title": "is <img> element has attribute href",
+    "answer_1": "yas",
+    "answer_2": "no its fo another tag",
+    "answer_3": "all element has this attribute",
+    "answer_4": "answer 1 and 3 is right",
+    "right_answer": "no its fo another tag"
+  },
+  {
+    "title": "why we use <br> element",
+    "answer_1": "to make text bold",
+    "answer_2": "to make text italic",
+    "answer_3": "to add breakline",
+    "answer_4": "to make horizontal line",
+    "right_answer": "to add breakline"
+  },
+  {
+    "title": "how can we make element text bold",
+    "answer_1": "putting it in <b> tag",
+    "answer_2": "putting it in <strong> tag",
+    "answer_3": "customizing it with font-weight property in css",
+    "answer_4": "all answer is right",
+    "right_answer": "all answer is right"
+  },
+  {
+    "title": "is <img> element has attribute href",
+    "answer_1": "yas",
+    "answer_2": "no its fo another tag",
+    "answer_3": "all element has this attribute",
+    "answer_4": "answer 1 and 3 is right",
+    "right_answer": "no its fo another tag"
+  },
+  {
+    "title": "how can we make element text bold",
+    "answer_1": "putting it in <b> tag",
+    "answer_2": "putting it in <strong> tag",
+    "answer_3": "customizing it with font-weight property in css",
+    "answer_4": "all answer is right",
+    "right_answer": "all answer is right"
+  }
+]
